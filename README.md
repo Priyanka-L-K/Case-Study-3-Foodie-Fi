@@ -73,17 +73,17 @@ This case study dishes out the juicy insights with SQL queries that uncover cust
 
 Hungry for more? Check out the deep dives here:
 
-- [🍽️ Part A: Customer Journey](https://github.com/Chisomnwa/8-Week-SQL-Challenge-Case-Study--3-Foodie-Fi/blob/main/A.%20Customer%20Journey.md)  
-- [📊 Part B: Data Analysis](https://github.com/Chisomnwa/8-Week-SQL-Challenge-Case-Study--3-Foodie-Fi/blob/main/B.%20Data%20Analysis%20Questions.md)  
-- [💰 Part C: Payment Insights](https://github.com/Chisomnwa/8-Week-SQL-Challenge-Case-Study--3-Foodie-Fi/blob/main/C.%20Challenge%20Payment%20Question.md)  
-- [🚀 Part D: Outside-the-Box Thinking](https://github.com/Chisomnwa/8-Week-SQL-Challenge-Case-Study--3-Foodie-Fi/blob/main/D.%20Outside%20the%20Box%20Questions.md)  
+- [🍽️ Part A: Customer Journey](https://github.com/Priyanka-L-K/Case-Study-3-Foodie-Fi/blob/main/A.%20Customer%20Journey.md)  
+- [📊 Part B: Data Analysis]()  
+- [💰 Part C: Payment Insights]()  
+- [🚀 Part D: Outside-the-Box Thinking]()  
 
 ---
 
 ## Extra Goodies (Resources)
 
-- [🍔 Medium Article: Deep Dive into Foodie-Fi’s Data](https://medium.com/@chisompromise/analyzing-subscription-style-digital-data-foodie-fi-f82031f93d09)  
-- [📈 Foodie-Fi Dashboard & Key Recommendations](https://www.novypro.com/project/business-performance-dashboard--foodie-fi)  
+- [🍔 Medium Article: Deep Dive into Foodie-Fi’s Data]()  
+- [📈 Foodie-Fi Dashboard & Key Recommendations]()  
 
 ---
 
