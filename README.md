@@ -42,12 +42,10 @@ This case study dishes out the juicy insights with SQL queries that uncover cust
 
 ## The Secret Ingredients: Data Tables
 
-| Table          | What’s Inside                           |
-|----------------|----------------------------------------|
-| **plans**         | Subscription types & prices             |
-| **subscriptions** | Who subscribed to what & when (sample) |
+<details>
+  <summary>Click to expand the Tables 🍽️</summary>
 
-### A Taste of `plans`
+### plans Table
 
 | plan_id | plan_name     | price  |
 |---------|---------------|--------|
@@ -57,7 +55,7 @@ This case study dishes out the juicy insights with SQL queries that uncover cust
 | 3       | pro annual    | $199   |
 | 4       | churn         | NULL   |
 
-### A Slice of `subscriptions`
+### subscriptions Table (sample)
 
 | customer_id | plan_id | start_date |
 |-------------|---------|------------|
@@ -67,9 +65,11 @@ This case study dishes out the juicy insights with SQL queries that uncover cust
 | 2           | 3       | 2020-09-27 |
 | ...         | ...     | ...        |
 
+</details>
+
 ---
 
-## Challenge Questions & Solutions
+## Case Study Questions & Solutions
 
 Hungry for more? Check out the deep dives here:
 
