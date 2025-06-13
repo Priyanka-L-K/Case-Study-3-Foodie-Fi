@@ -1,7 +1,7 @@
 # 🥑 #3 Foodie-Fi Case Study 🥑
 
 <p align="center">
-  <img src="https://github.com/Chisomnwa/8-Week-SQL-Challenge-Case-Study--3-Foodie-Fi/blob/main/Images/Foodie-Fi%20Photo.png" alt="Foodie-Fi" width="480" />
+  <img src="https://8weeksqlchallenge.com/images/case-study-designs/3.png" alt="Foodie-Fi" width="480" />
 </p>
 
 ---
