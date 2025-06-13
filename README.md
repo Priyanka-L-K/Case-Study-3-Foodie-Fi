@@ -74,7 +74,7 @@ This case study dishes out the juicy insights with SQL queries that uncover cust
 Hungry for more? Check out the deep dives here:
 
 - [🍽️ Part A: Customer Journey](https://github.com/Priyanka-L-K/Case-Study-3-Foodie-Fi/blob/main/A.%20Customer%20Journey.md)  
-- [📊 Part B: Data Analysis]()  
+- [📊 Part B: Data Analysis](https://github.com/Priyanka-L-K/Case-Study-3-Foodie-Fi/blob/main/B.%20Data%20Analysis%20Questions.md)  
 - [💰 Part C: Payment Insights]()  
 - [🚀 Part D: Outside-the-Box Thinking]()  
 
