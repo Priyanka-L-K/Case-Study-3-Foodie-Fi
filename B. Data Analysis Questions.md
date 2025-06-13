@@ -526,8 +526,6 @@ WHERE plan_id = 2 AND next_plan = 1;
 - This suggests strong value perception in pro monthly plans
 - Customers either maintain their pro monthly subscription or churn completely
 - No evidence of plan downgrading behavior in the dataset
-- Note: Original query had incorrect plan_id (used 3 instead of 2 for pro monthly)
-
 ---
 
 ## Summary Insights
